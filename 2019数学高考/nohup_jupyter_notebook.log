@@ -1,0 +1,15 @@
+nohup: ignoring input
+[I 11:28:36.351 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.0
+[I 11:28:36.396 NotebookApp] JupyterLab beta preview extension loaded from C:\Users\lenovo\Anaconda3\lib\site-packages\jupyterlab
+[I 11:28:36.396 NotebookApp] JupyterLab application directory is C:\Users\lenovo\Anaconda3\share\jupyter\lab
+[I 11:28:36.553 NotebookApp] Serving notebooks from local directory: C:\Users\lenovo\Desktop\OneDrive\typora\pyhton_base
+[I 11:28:36.553 NotebookApp] 0 active kernels
+[I 11:28:36.554 NotebookApp] The Jupyter Notebook is running at:
+[I 11:28:36.554 NotebookApp] http://localhost:8888/?token=3d09e09b990f18a69b84507751ee0bf8c15299627ff8b228
+[I 11:28:36.554 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:28:36.585 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=3d09e09b990f18a69b84507751ee0bf8c15299627ff8b228&token=3d09e09b990f18a69b84507751ee0bf8c15299627ff8b228
+[I 11:28:36.741 NotebookApp] Accepting one-time-token-authenticated connection from ::1
